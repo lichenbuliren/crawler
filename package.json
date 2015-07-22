@@ -1,0 +1,10 @@
+{
+	"name": "web-crawler",
+	"version": "0.0.1",
+	"description": "node study",
+	"dependencies": {
+	},
+	"scripts": {
+		"start": "nodemon app.js"
+	}
+}
